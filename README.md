@@ -1,5 +1,4 @@
 # Serial-Killer-Classification---Ensemble-Models
----
 
 ```markdown
 # 🔪 Serial Killer Classification using Ensemble Models
@@ -116,10 +115,6 @@ The dataset used includes behavioral and demographic attributes of known serial 
 
 Developed by **Shreya H S**
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/shreya-h-s) or raise issues in this repo for feedback.
-
----
-
-The deployed app: [https://serial-killer-classification.streamlit.app/](https://serial-killer-classification.streamlit.app/)
 
 ---
 
