@@ -1,6 +1,5 @@
 # Serial-Killer-Classification---Ensemble-Models
 
-```markdown
 # 🔪 Serial Killer Classification using Ensemble Models
 
 Welcome to the dark side of data science — this project explores the patterns, behaviors, and profiles of serial killers using machine learning and interactive visualizations. From historical EDA to predictive modeling, the project takes a data-driven approach to better understand criminal psychology and classification using ensemble learning techniques.
