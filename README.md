@@ -122,8 +122,3 @@ Feel free to connect via [LinkedIn](https://www.linkedin.com/in/shreya-h-s) or r
 This project is intended for educational purposes only. The predictions made by the model should not be used for real-world profiling, judgment, or legal purposes. Criminal behavior is a complex domain that requires ethical handling and domain expertise.
 
 ```
-
----
-
-Would you like a `LICENSE` file (e.g., MIT) or a badge-based header with Python version, Streamlit status, etc., next?
-```
